@@ -33,7 +33,7 @@ module.exports = {
       },
       {
         protocol: 'https',
-        hostname: 'siege-ergonomique.nexus-corp.fr',
+        hostname: 'www.masseur-electrique.nexus-corp.fr',
         port: '',
         pathname: '/wp-content/uploads/**',
       },
