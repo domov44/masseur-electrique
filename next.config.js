@@ -33,7 +33,7 @@ module.exports = {
       },
       {
         protocol: 'https',
-        hostname: 'www.masseur-electrique.nexus-corp.fr',
+        hostname: 'www.api.masseur-electrique.fr',
         port: '',
         pathname: '/wp-content/uploads/**',
       },
